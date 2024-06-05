@@ -2,7 +2,7 @@
 
 Meu nome é Guilherme Suman
 
-- Estou estudando na Alura
+- Estou estudando na Alura ![](https://cursos.alura.com.br/dashboard)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
